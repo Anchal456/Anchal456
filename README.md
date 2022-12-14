@@ -8,4 +8,5 @@ Completed my B Tech CSE (Batch: 2018-22)
 currently working as a software engineer.
 You can reach out to me for learning and contributing new things.
 
+i have knowledge of power bi || SSIS || AAS || azure data factory || azure synapse
 
