@@ -1,5 +1,4 @@
 नमस्ते 🙏
-I am glad u came to visit
 Happy to see you! 🤩 
 Welcome to my github page, I am Anchal.
 
