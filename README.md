@@ -10,3 +10,5 @@ You can reach out to me for learning and contributing new things.
 
 i have knowledge of power bi || SSIS || AAS || azure data factory || azure synapse
 
+i am sharing data structure and algorithms logic and code on leetcode you can find the link to my leetcode profile
+https://leetcode.com/thisanchal/
